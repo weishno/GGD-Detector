@@ -1,0 +1,9 @@
+# Requirements for GGD-Detector
+
+# Add your project dependencies here
+opencv-python
+Pillow
+tkinter
+numpy
+PyYAML
+ultralytics
